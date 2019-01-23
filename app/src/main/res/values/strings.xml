@@ -1,0 +1,120 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">watchclub</string>
+    <string-array name="ligalist">
+        <item>Английская Премьер лига</item>
+        <item>Испанская Ла лига</item>
+        <item>Итальянская Серия А</item>
+        <item>Немецкая Бундес лига</item>
+        <item>Французкая Лига 1</item>
+    </string-array>
+    <string-array name="apllist">
+        <item>Ливерпуль</item>
+        <item>Манчестер Сити</item>
+        <item>Тоттенхэм</item>
+        <item>Челси</item>
+        <item>Арсенал</item>
+        <item>Манчестер Юнайтед</item>
+        <item>Уотфорд</item>
+        <item>Вулверхэмптон</item>
+        <item>Лестер</item>
+        <item>Вест Хэм</item>
+        <item>Эвертон</item>
+        <item>Борнмут</item>
+        <item>Брайтон</item>
+        <item>Кристал Пэлас</item>
+        <item>Саутгемптон</item>
+        <item>Бернли</item>
+        <item>Ньюкасл</item>
+        <item>Кардифф</item>
+        <item>Фулхэм</item>
+        <item>Хаддерсфилд</item>
+    </string-array>
+    <string-array name="laligalist">
+        <item>Барселона</item>
+        <item>Атлетико</item>
+        <item>Реал Мадрид</item>
+        <item>Севилья</item>
+        <item>Алавес</item>
+        <item>Хетафе</item>
+        <item>Бетис</item>
+        <item>Реал Сосьедад</item>
+        <item>Валенсия</item>
+        <item>Леванте</item>
+        <item>Эйбар</item>
+        <item> Жирона</item>
+        <item>Эспаньол</item>
+        <item>Атлетик</item>
+        <item>Леганес</item>
+        <item>Вальядолид</item>
+        <item>Сельта</item>
+        <item>Райо Вальекано</item>
+        <item>Вильярреал</item>
+        <item>Уэска</item>
+    </string-array>
+    <string-array name="serialist">
+        <item>Ювентус</item>
+        <item>Наполи</item>
+        <item>Интер</item>
+        <item>Милан</item>
+        <item>Рома</item>
+        <item>Лацио</item>
+        <item>Аталанта</item>
+        <item>Сампдория</item>
+        <item>Парма</item>
+        <item>Фиорентина</item>
+        <item>Торино</item>
+        <item>Сассуоло</item>
+        <item>Кальяри</item>
+        <item>Дженоа</item>
+        <item>Удинезе</item>
+        <item>СПАЛ</item>
+        <item>Эмполи</item>
+        <item>Болонья</item>
+        <item>Фрозиноне</item>
+        <item>Кьево</item>
+    </string-array>
+    <string-array name="bundlist">
+        <item>Боруссия Д</item>
+        <item>Бавария</item>
+        <item>Боруссия М</item>
+        <item>РБ Лейпциг</item>
+        <item>Айнтрахт Ф</item>
+        <item>Вольфсбург</item>
+        <item>Герта</item>
+        <item>Хоффенхайм</item>
+        <item>Вердер</item>
+        <item>Байер</item>
+        <item>Майнц</item>
+        <item>Шальке</item>
+        <item>Фрайбург</item>
+        <item>Фортуна</item>
+        <item>Аугсбург</item>
+        <item>Штутгарт</item>
+        <item>Ганновер</item>
+        <item>Нюрнберг</item>
+    </string-array>
+    <string-array name="frenchlist">
+        <item>ПСЖ</item>
+        <item>Лилль</item>
+        <item>Лион</item>
+        <item>Сент-Этьен</item>
+        <item>Страсбур</item>
+        <item>Монпелье</item>
+        <item>Марсель</item>
+        <item>Ницца</item>
+        <item>Ренн</item>
+        <item>Бордо</item>
+        <item>Реймс</item>
+        <item>Ним</item>
+        <item>Тулуза</item>
+        <item>Нант</item>
+        <item>Анжер</item>
+        <item>Кан</item>
+        <item>Амьен</item>
+        <item>Дижон</item>
+        <item>Монако</item>
+        <item>Генгам</item>
+    </string-array>
+
+
+</resources>
